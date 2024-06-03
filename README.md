@@ -5,7 +5,7 @@
 - **Framework**: React
 - **Tools**:  SQL
 ## Projects
-- **projecct1**:
+- **projecct1**: 
 - **projecct2**: 
 
 - 📫 How to reach me ...
