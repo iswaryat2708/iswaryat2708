@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Iswarya T
-    I'm a fresher looking for job opportuunities in the Software industry.
-## 🌱 Skills
-- 💞️ I’m looking to collaborate on ...
+    - I'm a fresher looking for job opportuunities in the Software industry.
+## Skills
+- **Languages**: Java, HTML, CSS, Javascript
+- **Framework**: React
+- **Tools**:  SQL
+## Projects
+- **projecct1**:
+- **projecct2**: 
+
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
