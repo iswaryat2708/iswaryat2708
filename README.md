@@ -5,8 +5,8 @@
 - **Framework**: React
 - **Tools**:  SQL
 ## Projects
-- **projecct1**: 
-- **projecct2**: 
+- **projecct1**: (https://github.com/iswaryat2708/studentdatabase-project) Built using Java and SQL a student management software showcasing both frontened and backened.
+- **projecct2**: ()
 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
