@@ -8,13 +8,14 @@
 ## Projects
 - **projecct1**: (https://github.com/iswaryat2708/studentdatabase-project) Built using Java and SQL a student management software.
 - **projecct2**: (https://github.com/iswaryat2708/tictactoe-project) Built using Java a tic-tac-toe game.
-
-## How to reach me
-- iswaryathirumoorthi27@gmail.com
   
 ## Certifications
 - Diploma in java programming
 - Internship in mobile applications.
+
+## How to reach me
+- iswaryathirumoorthi27@gmail.com
+
 <!---
 iswaryat2708/iswaryat2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
